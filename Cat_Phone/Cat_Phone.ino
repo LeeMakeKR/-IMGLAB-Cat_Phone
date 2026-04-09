@@ -21,7 +21,7 @@
 
 #include <SPI.h>
 #include <SdFat.h>
-#include <vs1053_SdFat.h>
+#include <vs1053_SdFat.h> 
 
 // ============================================================
 //  ⏱️ 조절 가능한 설정값
